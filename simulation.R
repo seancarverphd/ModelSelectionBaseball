@@ -1,5 +1,13 @@
-
-## From Chapter 9 of book 
+## simulation.R
+## Script written by Rebeca Berger, Class of 2017,
+## American University
+##
+##  This script uses data and code from Marchi & Albert.
+##  See: https://github.com/maxtoki/baseball_R
+##   Citation: Max Marchi and Jim Albert (2013), 
+##             Analyzing Baseball With R, CRC Press.
+##
+## From Chapter 9 of Marchi & Albert. 
 ## Simulating an inning using the transition matrix 
 
 data2011 <- read.csv("data/all2011.csv", header=FALSE)
